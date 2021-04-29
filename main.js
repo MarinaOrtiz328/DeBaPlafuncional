@@ -2,7 +2,7 @@ const Script  = require('./DAO');
 
 let productosDAO = new Script('./productos.json');
 
-console.log("Número de productos con existencia mayor a 20."");
+console.log("Número de productos con existencia mayor a 20.");
 console.log(productosDAO.productsInStockMore(20));
 
 console.log("Número de productos con existencia menos a 15.");
