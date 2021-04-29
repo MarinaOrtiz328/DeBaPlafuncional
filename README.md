@@ -2,6 +2,8 @@ Ana Marina Ortiz Ruiz 329577
 
 Tarea 2.3
 
+recibi ayuda de algunos compañeros
+
 La empresa de abarrotes doña Julia tiene una lista de productos donde almacena la clave del producto, su descripción precio, clasificación, cantidad de existencia, existencia mínima y máxima. Doña Julia requiere generar varios reportes:
 
     Número de productos con existencia mayor a 20.
