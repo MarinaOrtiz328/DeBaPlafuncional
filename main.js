@@ -14,5 +14,6 @@ console.log(productosDAO.productsSameCategoryPriceMore(15.5,'verdura'));
 console.log("Lista de productos con precio mayor a 20.30 y menor a 45.00");
 console.log(productosDAO.productsPriceBetween(20.3,45));
 
+
 console.log("Número de productos agrupados por su clasificación");
 console.log(productosDAO.productsSameCategory(''));

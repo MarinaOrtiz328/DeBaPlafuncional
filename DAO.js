@@ -17,6 +17,7 @@ class ProductosDAO {
     productsPriceBetween(num1,num2){
         return this.productData.filter(product => product.price > num1 && product.price < num2);
     }
+    
     productsSameCategory(category){
         return this.productData.filter(product => product.category === category);
     }
